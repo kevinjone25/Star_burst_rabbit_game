@@ -1,10 +1,15 @@
 # Star_burst_rabbit_game
 雜燴兔的逆襲!!!
 
-Usage
+- Usage
 ```
 Click main.exe
 ```
+
+- 使用方法
+
+```
 點擊兩下main.exe就可以執行了
+```
 
 ![image](https://user-images.githubusercontent.com/64208218/148578953-0000a6e6-299e-4642-a411-c776ac190653.png)
